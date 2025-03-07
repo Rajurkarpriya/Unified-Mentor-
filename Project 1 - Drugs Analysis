@@ -1,0 +1,43 @@
+🚀 Drug Data Analysis – Internship Project at Unifies Mentor
+📌 Project Type: Data Analysis
+📌 Tools & Technologies: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
+📌 Dataset: Pharmaceutical data containing drug names, medical conditions, side effects, ratings, interactions, and classifications.
+
+📌 Project Overview
+This project focuses on analyzing drug-related data to uncover key insights such as:
+Most commonly prescribed drugs.
+Drug classes categorized as Rx (prescription) vs. OTC (over-the-counter).
+Common side effects and their frequency.
+Pregnancy safety categories and alcohol interactions.
+CSA (Controlled Substances Act) classification of drugs.
+Relationship between drug ratings and number of reviews.
+The project was implemented using Python in Jupyter Notebook, utilizing data cleaning, transformation, and visualization techniques to extract meaningful insights.
+
+🛠 How I Solved Data Challenges
+🔹 Data Import & Exploration: Loaded the dataset and checked for missing values.
+🔹 Data Cleaning & Handling Missing Data: Used mode imputation, mean/median replacement, and forward/backward fill for missing values.
+🔹 Data Transformation: Filtered, grouped, and summarized key insights using Pandas.
+🔹 Data Visualization: Generated insightful visualizations to interpret drug usage trends.
+
+📊 Charts & Graphs Used for Data Visualization
+To effectively present the findings, I used different visualization techniques:
+✅ Bar Charts – Top medical conditions & side effects.
+✅ Pie Charts – Proportion of pregnancy safety categories & alcohol interactions.
+✅ Scatter Plot – Relationship between drug ratings and number of reviews.
+✅ Step Graph – Ranking of top-rated drugs.
+✅ Steam Graph – CSA classification distribution.
+
+These helped visualize key trends, risks, and drug classifications in a clear and insightful manner.
+
+💡 Key Learnings & Outcomes
+📌 Strengthened Python, Pandas, Matplotlib, and Seaborn skills.
+📌 Gained insights into data-driven decision-making in pharmaceuticals.
+📌 Improved data cleaning, visualization, and storytelling abilities.
+
+📂 Project Files
+📁 drug_data_analysis.ipynb → Jupyter Notebook with data analysis and visualizations.
+📁 drug_data.csv → The dataset used for analysis.
+📁 README.md → Project documentation and insights.
+
+🎯 Conclusion
+This project provided a deep dive into pharmaceutical data analysis, helping to understand drug classifications, side effects, and interactions through a data-driven approach. A big thanks to Unifies Mentor for this opportunity!
